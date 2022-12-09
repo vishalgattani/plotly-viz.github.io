@@ -1,11 +1,6 @@
 # plotly-viz.github.io
 Plotly Visualizations
-
-<div>
-      <div style="position:relative;padding-top:56.25%;">
-        <iframe src="./PlaceProcessed.html" frameborder="0" allowfullscreen
-          style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-      </div>
-    </div>
-
-
+<div class="container-fluid" style="margin-top:40px">
+<iframe src="1.html" width="100%" height="300"></iframe>
+<iframe src="2.html" width="100%" height="300"></iframe>
+</div>
